@@ -7,7 +7,7 @@ For example:
 ``Cond(FlipDataSource.FlipType = "6Line",1.101, 1.035)``  
 The first ``FlipDataSource`` in a list is usually a sticker for the Order with ``FlipType = "7Line"`` followed by several ``FlipDataSource``s with ``FlipType = "6Line"``. List and Label 15 sets the posistion for each ``FlipDataSource`` correctly but in 25 each ``FlipDataSource`` is being set using the value from the first ``FlipDataSource``.  
 Changing the data so that ``FlipType = "6Line"`` for the first ``FlipDataSource`` shows the correct positions for the following ``FlipDataSource``s, but is incorrect for the first ``FlipDataSource``.  
-![Output examples](doc/Differences.JPG)
+![Output examples](doc/Differences.jpg)
 
 ---
 ### Sample WPF Application.
