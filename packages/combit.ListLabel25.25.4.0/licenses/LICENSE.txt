@@ -1,0 +1,134 @@
+combit Software License Agreement
+
+Please read carefully before installing.
+Issued May 10, 2017
+
+It is in your best interest to produce backup copies regularly in order to avoid extensive damage due to the loss of data! Please also include the original software in the initial backup and keep this backup in a safe place together with the product license certificate.
+
+
+1. Contractual basis
+
+1.1 Preamble
+1.1.1 The following provisions apply to all software products of combit Software GmbH (referred to as combit in the following). An up-to-date version of these license terms can be accessed at www.combit.net/en/license-agreement. In the absence of any deviating written agreements with combit, you consent to the content of these license terms by opening the sealed packaging and/or by agreeing during the installation and/or by agreeing during the registration via the electronic form respectively. Every use of the combit software, which exceeds these regulations, requires the prior written consent of combit.
+1.1.2 The combit software, including all further accompanying materials or documents, which will be placed at your disposal by combit regardless of the form (solid or immaterial), are protected by copyright. Unless otherwise expressly indicated, combit is exclusively entitled to all rights, particularly the copyright, trademark law and further ancillary copyrights.
+1.1.3 combit software is not sold but licensed. You can only become proprietor of the data carrier and the packaging. By accepting these license terms combit grants you an unlimited, not exclusive license for the use of combit software in accordance with the provisions of this license agreement.
+1.1.4 If you disagree with any provision of this agreement, you may neither continue with the installation nor run the combit software, pass it on or use it in any other way. In such a case, we ask you to return the combit software with its packaging to the source of purchase and you will receive a full refund of the purchase price.
+
+1.2 Definition of terms
+1.2.1 "combit software" comprises all data processing programs and data, which are provided by combit as download or on data storage media. This also includes digitalized pictures, inventory photographs, clipart, audio and other artistic works, associated accompanying information (documentation) - also electronic versions, as well as character styles (fonts). The term "combit software" further comprises all upgrades, patches, modified versions, updates and/or extensions of the combit software.
+1.2.2 The term "use" generally means the access, installation, download, copying, duplication, usage, playing and any other usage of the functions of the combit software.
+1.2.3 "Personal, user dependent software license" means that a number of licenses must be purchased, which corresponds to the number of users/developers.
+1.2.4 "Upgrade" describes a new product version of a combit software. This new product version may contain new functions and/or error corrections.
+1.2.5 "Upgrade" also describes an extension of the software license. This could e.g. be an upgrade from one to several users or from the Standard to the Enterprise Edition.
+1.2.6 The term "computer network" refers to an open or closed, permanent server/client network consisting of at least one central computer (server) and several computers (clients), which are capable of communicating and exchanging data among each other. The term "computer network" also describes a permanent connection of computers to a closed network without a central computer, which saves and administers network data/applications (peer-to-peer network, cloud computing).
+1.2.7 "Developer" is every person who participates in the production process of a software product or in the implementation of a software project and who has the possibility to work with the combit software and/or profits from its functionalities in the production process or the implementation.
+1.2.8 A "product" is every asset, which is developed by you in a value-added process, particularly software, which is programmed by you.
+1.2.9 The term "project" describes a plan to reach a specific goal and which is characterized by the fact that it is primarily a one-time project. This applies in particular to software projects at your or your customer's business.
+1.2.10 "Encapsulation" means to hide data or information in order to prevent external access, which is done by incorporating one or several runtime libraries in a customer's new file.
+1.2.11 A "server application" is an application or a service, which is capable of being launched or used on one computer by another computer. A server application refers in particular to web server and in-house intranet server.
+
+
+2. Content of the services
+
+2.1 General terms of use
+2.1.1 combit grants you a personal, non-exclusive right of use of combit software including its documentation. The software license granted to the customer is user-dependent and personal. If combit software is purchased by a legal entity, a person must be designated within the organization to have the sole right to use the software. The granting of sub-licenses is not permissible.
+2.1.2 You may install and use copies of combit software up to the agreed and permissible number on one computer and the permissible number of computers respectively. If you switch to a different computer, you are obligated to delete combit software completely from the previous computer if the permissible number of users is otherwise exceeded.
+2.1.3 If a rotational backup of the complete data including combit software is required for data security reasons or in order to assure a quick reactivation of the computer after a total breakdown you are allowed to make as many backup copies as absolutely necessary. The respective data carriers are to be marked adequately and may only be used for archival purposes.
+2.1.4 The generation of further copies of combit software is not permitted.
+2.1.5 You are obligated to prevent unauthorized third parties from accessing original data carriers, back up and further copies, license certificates and its content as well as the documentation of the combit software. The duty to comply with the license terms as well as the copyright of combit software is to be expressly pointed out to employees.
+
+2.2 Multiple use and use within a network
+2.2.1 It is not permitted to simultaneously store, retain and use more copies of combit software as licensed. If you - or several people - want to use combit software on multiple computers, you have to purchase the respective number of licenses of combit software.
+2.2.2 You may install a copy of combit software on a computer, which is connected to a computer network in order to download and install the permitted number of combit software on other computers in the computer network. The number of developers/users, who have access to or use combit software, may not exceed the permitted number; in the absence of any deviating entries in the product description, it is irrelevant for this number if the software is being used at the same time or at different times. Other terms shall only apply if a simultaneous access license is granted for certain products (e.g. combit Relationship Manager). In this case, there is no limit as to the number of installed copies of the software; however, simultaneous use is only permitted in accordance with the number of purchased licenses.
+2.2.3 Every other use of combit software within a computer network is not permitted. This includes direct use via commands, data or instructions from or to another computer, which is not part of the computer network, the use for Internet or application service provider or web hosting services or the use of the software by unauthorized developers/users. If combit software is used within a computer network, you are obligated to prevent unauthorized use and use, which exceeds the number of licenses of combit software by implementing adequate access regulations.
+2.2.4 If combit grants a notebook license, it is a single user license in terms of content, which is sold at a reduced rate due to an existing basic license. The notebook license is only valid in combination with a basic license and does not increase the number of personalized users.
+2.2.5 If the data medium contains software of third parties (e.g. Microsoft SQL Server Express), a use of this third party software is only permitted if a license agreement is concluded with the third-party developer.
+2.2.6 The contractually designated right of use of combit software is granted upon full payment of the license/purchase price by the customer. Until complete payment, combit reserves the right to transfer ownership. In order to protect the license, there are safeguards integrated in the combit software, which to some extent will transmit violations of the permitted number of users within the network.
+2.2.7 In case the contract is reversed the customer is obligated to delete the original combit software and all copies including any modified copies as well as all provided written material. In this case, you are obliged to provide combit with a written notification confirming the deletion.
+2.2.8 Even if various combit software products support third-party software for signature processes, combit explicitly indicates that it is neither a provider of signature software nor a certified provider of digital signatures.
+2.2.9 combit reserves the right to make product modifications, which do not affect the software's general operability.
+
+2.3 Source code, decompiling and program modifications
+2.3.1 The client will receive the combit software in the form of object code. The client will only be provided with technical program documentations, in particular the source code, if this is specified in the user documentation (development tools).
+2.3.2 You commit yourself not to change, translate or alter the combit software. You also undertake to neither decompile the provided combit software nor to disassemble it or to carry out any further actions, which enable you to reveal the various manufacturing stages (reverse engineering) or to try to uncover the source code of combit software in any other way or to translate it into a generally readable form without prior written consent of combit.
+2.3.3 Under no circumstances may copy protection mechanisms or any further protection routines, copyright mentions, serial numbers as well as other features necessary for the identification of the program be disabled or altered.
+
+2.4 Upgrades
+2.4.1 combit publishes upgrades for combit software at their own discretion. This will be made available to you for a license fee.
+2.4.2 In order to be able to use upgrades you must be in possession of a valid license for the combit software. If the combit software is an upgrade of a previous version, you must be in possession of a valid license of this previous version of the combit software in order to be able to use the upgrade.
+2.4.3 You may only upgrade combit software upon payment of a license fee and if you are already in possession of a valid license. Licenses for upgrades of combit software must be purchased according to the permissible number.
+2.4.4 All upgrades will be made available to you based on a license exchange. You accept that by using the upgrade you voluntarily renounce the right to use the previous version of the software. You confirm that all of combit's obligations to support previous versions of the combit software are terminated after availability of the upgrade.
+
+2.5 Development tools
+2.5.1 If multiple developers work on a product/project for which combit software is used, each developer of the product/project must have his own license.
+2.5.2 If multiple developers work on a product/project and if therefore multiple licenses are required, these licenses must all be of the same license type. This means that a parallel use of Standard and e.g. Professional or Enterprise editions is not possible.
+2.5.3 In the context of the development, it is not permitted to design a program or a module whose goal it is to be primarily used in print and/or primarily for the preparation/allocation of reports (such as label software, reporting programs, etc.) or which compete directly with combit software.
+2.5.4 You have the right to reproduce or pass on the object code version of parts of the combit software if these are expressly marked as redistributable components in the documentation.
+2.5.5 You do not have the right to distribute the object code of the redistributable component/runtime module of the combit software as part of a software product, which could be used for the development of software products. Therefore, the functionality of the redistributable components/runtime modules of the combit software must not be made available to third parties and combit software must not be usable separately from this surrounding software application.
+2.5.6 You also do not have the right to encapsulate the redistributable components/runtime modules of the combit software into your own runtime modules. Therefore, you are prohibited from providing the redistributable components/runtime modules for instance in source code or also in compiled form (such as DLL or EXE-file) to other developers.
+2.5.7 It is possible to deviate from the license agreement in ciphers 2.5.3 - 2.5.6 by way of a written supplemental agreement.
+2.5.8 The redistributable components/runtime modules may only be passed on to third parties under the following conditions:
+- no encapsulation of redistributable components/runtime modules of the combit software;
+- combit software is used in accordance with the license terms whereas particularly the number of developers/users may not be exceeded;
+- you will distribute the redistributable components/runtime modules of the combit software only with your software product and as part of the same;
+- you will not use the name, logo, brand or any other characteristics of combit or the combit software for the marketing of your software product; 
+- you will undertake any end customer support, particularly for the redistributable components/runtime modules; 
+- you will keep combit indemnified against all liabilities including attorney fees which could arise from the use of your software product;
+- due to license terms the end customer will be specifically prohibited from redistributing the redistributable components/runtime models and
+- the license terms must contain an explicit and distinct copyright notice, which points out combit's proprietorship of the redistributable components/runtime modules. This copyright notice is to be included in the start-up screen and/or the program information and is to be placed clearly visible on the screen. This implies that the aforementioned copyright notice is always placed next to your own copyright notice and presented in identical size. It is generally possible to waive the obligation to display the copyright notice by means of a separate agreement (copyright waiver). Such an agreement must be in writing. Please contact our sales department if you are interested.
+2.5.9 You are not permitted to use the combit software as component of a server/web server application on the internet/intranet such as http-, https-, wap/wtp-protocol. The aforementioned use is only permitted if you purchase an appropriate (server) license from combit, which is possible at any time. If the underlying server/web server application is licensed on a user-dependent basis, then the required number of users corresponds to this number. Otherwise, the maximum possible number of simultaneous users is to be licensed. By purchasing the Enterprise Edition, the aforementioned use is permitted for an arbitrary number of servers/web servers and users.
+2.5.10 The aforementioned rights within the scope of the development tool will be granted by means of purchase of the standard edition of the respective combit software. By purchasing the Professional or the Enterprise Edition, your legal position will be strengthened and extended. Additionally, there is the possibility to make individual arrangements. Please contact the sales department for further information. In this context, we would also like to refer you to the FAQ, which are available on www.combit.net/en/reporting-tool/license-faq.
+
+
+3. Ensuring the performance of the services
+
+3.1 Claims for defects
+3.1.1 Unless otherwise specified below, the statutory provisions apply to your rights in case of material defects and defects of title.
+3.1.2 The basis for any claim for defects is first and foremost the agreement regarding the condition of the combit software. The product description, which you were provided with at the time of order or which was incorporated by means of written agreement, shall be considered as agreement on the quality of the product.
+3.1.3 If the parties did not agree on the condition of the goods, the existence of a defect is to be determined by means of the statutory rules (Sec. 434 para. 2 s. 2 and 3 BGB). Any information about the product contained in leaflets, brochures, advertisements, documentation and similar writings are only descriptions and do not contain any statement regarding the condition of the goods.
+3.1.4 By taking quality assurance measures, combit puts in great efforts to assure that the product is free of any defects. However, according to today's state of the art it is not possible to produce software free of defects.
+3.1.5 If you are a merchant, claims for defects require that you complied with your statutory obligation to examine the goods and give notice of non-conformity (sect. 377, 381 HGB). If the examination shows or you later discover a defect, combit must be notified immediately about the deficiency of the goods. The notification is considered immediately if sent within two weeks whereas timely dispatch shall suffice to keep the term. Independent of this obligation to examine and give notice of the non-conformity of the goods you must inform combit in writing within two weeks after delivery of obvious defects (including wrong and short delivery). Timely dispatch shall suffice to keep the term.
+3.1.6 If you fail to examine the goods and/or fail to give notice of defect, combit's liability for this defect is excluded.
+3.1.7 If the delivered object is defective, you may choose between the remedy of the defect (amendment) and the delivery of an object free of defects (compensation delivery). If you do not choose any of the aforementioned rights, combit may allow a reasonable time to do so. If you do not make a choice within this time limit, the right of choice demises to combit.
+3.1.8 combit is entitled to hinge the supplementary performance on the due payment of the purchase price. You are entitled to retain a - in relation to the defect - fair amount of the purchase price. You must hand over the rejected goods to combit for test purposes and grant the time necessary for the supplementary performance. In case of compensation delivery, you must return the defective object according to the statutory provisions.
+3.1.9 If a defect really exists, combit is responsible for any costs incurred by the examination and supplementary performance, in particular transport, infrastructure, labor and material costs. However, if your request for removal of defects turns out to be unjustified, combit may ask for reimbursement of the incurred costs.
+3.1.10 In urgent cases, such as the threat of the operational safety or in order to prevent disproportionately large damage, you have the right to remedy the deficiencies yourself and ask combit for reimbursement of the cost necessary from an objective point of view. combit is to be informed immediately of and if possible prior to such a self-remedy of defects. However, there is no right to self-remedy of defects if combit is entitled to refuse supplementary performance under the statutory provisions.
+3.1.11 If supplementary performance fails or a suitable period of time for supplementary performance has lapsed without success or is legally superfluous, you may exercise your right of withdrawal or request an abatement of the purchase price. In case the defect is insignificant, the right of withdrawal is excluded.
+3.1.12 Any entitlement of damages and any compensation for futile expenses exist only in accordance with sect. 3.2 and are excluded for all other cases.
+3.1.13 If a program or parts of a program is modified or extended by yourself, any warranty claim will lapse unless it can be proven that in case of defect this modification and/or extension did not cause the defect. The warranty claim lapses also if the defect, failure or damage was caused by improper use, disregard of data security instructions, hardware failure, failure of the operating system or any other incident, which is outside of combit's area of responsibility.
+
+3.2 Liability
+3.2.1 combit is liable without limitations for damages
+- for injuries to life, body or health resulting from an intentional or negligent breach of duty or behavior of combit or one of its legal representatives or auxiliary persons;
+- caused by the absence or the omission of a guaranteed quality or the failure to comply with a guaranty;
+- caused by an intentional or grossly negligent breach of duty or behavior of combit or one of its legal representatives or auxiliary persons;
+- caused by fraudulent concealment of a defect by combit.
+3.2.2 combit's liability is limited to the compensation of losses foreseeable and typical for this contract and cause by a negligent breach of a substantial contractual obligation (cardinal obligation) by combit or one of its legal representatives or auxiliary persons.
+3.2.3 combit's liability for all further cases of negligence is limited to an annual compensation or a sum five-times the purchase price for each case of damage.
+3.2.4 In case of data loss caused by negligence, combit is only liable for damage, which would have been caused even if you had secured the data properly and on a regular basis, depending on the importance of the data; this limitation does not apply if the data backup was impossible or impeded due to reasons attributable to combit.
+3.2.5 The aforementioned provisions apply correspondingly to combit's liability with regard to the compensation for futile expenses. 
+3.2.6 The liability according to the Product Liability Act remains unaffected.
+3.2.7 In case combit is not liable according to ciphers 3.2.1 - 3.2.6 all further liability is hereby excluded.
+
+3.3 Limitation of time
+3.3.1 Deviating from sec. 438 para. 1 no. 3 Civil Code (BGB), the limitation period for claims arising out of material defects or defect of title is one year after handover. The legal special regulations shall remain unaffected for claims for return based upon a property right of a third person (sec. 438 para. 1 no. 1 BGB), in case of fraudulent intent of combit (sec. 438 para. 3 BGB) and for suppliers' claims for recourse in case of final delivery to a consumer (sec. 479 BGB).
+3.3.2 The aforementioned limitation period of the sale of goods law applies also to contractual and non-contractual claims for damages of the customer, which originate from a defect of the contract goods, unless the application of the regular statutory limitation period (sec. 195, 199 BGB) results in a shorter limitation period in individual cases. The limitation period of the Product Liability Act remains unaffected.
+
+3.4 Right to be informed
+Due to copyright reasons and in order to secure combit's position, the parties agree to a contractual right to be informed. combit may inquire at any time how many users and/or developers are using combit software or are working on a product/project.
+
+
+4. Contractual performance
+
+4.1 Commencement and termination of contract
+4.1.1 All rights according to these provisions will set in with complete payment of the license fee.
+4.1.2 The license is granted for an indefinite period of time. If you violate any of these fixed license terms the license will automatically be terminated without notice. In case of termination, you are obligated to delete the software and all back-up copies. In this case, you are obliged to provide combit with a written notification confirming the deletion.
+
+
+5. General provisions
+
+5.1 The law of the Federal Republic of Germany applies to this agreement. The application of the UN Convention on Contracts for the International Sale of Goods (CISG) is excluded.
+5.2 Jurisdiction for all disputes arising out of or in connection with the contract is the domicile of combit for all merchants, corporate bodies under public law or public fund assets within the meaning of the Commercial Code (HGB). Place of performance for delivery and payment is the registered office of combit. combit may file a suit against merchants at the customer's place of jurisdiction or any other legal jurisdiction. As for the rest, the legal requirements shall apply.
+5.3 The parties did not agree on any subsidiary arrangements. Any amendments must be made in writing. The same applies to the removal of the written form clause.
+5.4 Should individual terms of the contract including this provision be or become partially or completely invalid, this shall not affect the validity of the other contract terms. The terms of the contract comply with the statutory provisions. In the absence of statutory provisions, the invalid provision shall be replaced by a provision which comes as close as possible to the economic intent.
+5.5 This English version shall be used only for assistance in translation of the German version of the Software License Agreement. For any legal interpretation or claim, the German version shall prevail. The German version can be accessed at www.combit.net/lizenzvertrag.

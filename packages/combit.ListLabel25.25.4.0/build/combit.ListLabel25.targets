@@ -1,0 +1,82 @@
+<Project DefaultTargets="Build" InitialTargets="NugetWarning" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Choose>
+		<When Condition=" '$(PlatformTarget)' != '' ">
+			<PropertyGroup>
+				<TargetPlatform>$(PlatformTarget)</TargetPlatform>
+			</PropertyGroup>
+		</When>
+		<Otherwise>
+			<PropertyGroup>
+				<TargetPlatform>$(Platform)</TargetPlatform>
+			</PropertyGroup>
+		</Otherwise>
+	 </Choose>
+	 <PropertyGroup Condition=" '$(TargetPlatform)' == 'AnyCPU' and (Exists('$(ProjectDir)web.config') or Exists('$(ProjectDir)wwwroot')) ">
+		<TargetPlatform>x64</TargetPlatform>
+	</PropertyGroup>
+	 <PropertyGroup>
+		<LL25>$(registry:HKEY_CURRENT_USER\SOFTWARE\combit\cmbtll@LL25RedistDir)</LL25>
+	</PropertyGroup>
+	<PropertyGroup>
+		<LL25Version>$(registry:HKEY_CURRENT_USER\SOFTWARE\combit\cmbtll@LL25SPVersion)</LL25Version>
+	</PropertyGroup>
+	<PropertyGroup>
+		<PackageVersion>25.004</PackageVersion>
+	</PropertyGroup>
+	<ItemGroup Condition=" '$(TargetPlatform)' == 'x64' or '$(TargetPlatform)' == 'AnyCPU' ">
+		<None Include="$(LL25)x64\combit.ListLabel25.Export.x64.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x64\System.Data.SQLite.x64.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x64\c???25.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x64\c?ll25??.*">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x64\*.lng">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x64\DocumentFormat.OpenXml.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	<ItemGroup Condition=" '$(TargetPlatform)' == 'x86' or '$(TargetPlatform)' == 'AnyCPU' " >
+		<None Include="$(LL25)x86\combit.ListLabel25.Export.x86.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x86\System.Data.SQLite.x86.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x86\c???25.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x86\c?ll25??.*">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x86\*.lng">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Include="$(LL25)x86\DocumentFormat.OpenXml.dll">
+			<Visible>False</Visible>
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	<Target Name="NugetWarning" AfterTargets="Build">
+		<Warning Text="No List &amp; Label installation found." Condition="'$(LL25)' == '' "/>
+		<Warning Text="Your List &amp; Label installation (version $(LL25Version)) and the NuGet Package (version $(PackageVersion)) do not match. We recommend to install both the latest available NuGet Package version $(PackageVersion) and the List &amp; Label Service Pack Release $(PackageVersion)." Condition="'$(LL25Version)' != '' and ('$(LL25Version)' != '$(PackageVersion)')"/>
+	</Target>
+</Project>
