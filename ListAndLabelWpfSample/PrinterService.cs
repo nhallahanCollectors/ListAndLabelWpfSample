@@ -58,6 +58,9 @@ namespace ListAndLabelWpfSample
             flips.AddRange(data);
 
             ll.SetDataBinding(flips, string.Empty);
+            
+            // define to the databinding mode
+            ll.DataBindingMode = DataBindingMode.Compatible;
 
             ll.AutoShowSelectFile = false;
             ll.AutoDesignerPreview = true;
